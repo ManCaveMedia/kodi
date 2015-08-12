@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    <addon id="ManCaveMedia Repository" name="ManCaveMedia Repository" version="0.1.1" provider-name="ManCaveMedia">
+    <addon id="repository.mancavemedia" name="ManCaveMedia Repository" version="0.1.2" provider-name="ManCaveMediaMaster">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
